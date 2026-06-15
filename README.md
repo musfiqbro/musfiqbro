@@ -1,13 +1,13 @@
 ✔ Beginner-friendly  
 ✔ Popular tool  
-🔗 Repo → 
+🔗 Repo → Skip
 ---
 
 ### ⚙️ **Premium Script**
 All-in-one premium VPS setup with optimization.  
 ✔ Multi-protocol support  
 ✔ Fast & powerful  
-🔗 Repo →   
+🔗 Repo → Skip  
 
 ---
 
@@ -16,7 +16,7 @@ CLI-based powerful Telegram automation tools.
 ✔ Message utilities  
 ✔ Admin tools  
 ✔ Scripting fun  
-🔗 Repo → 
+🔗 Repo → skip
 
 ---
 
