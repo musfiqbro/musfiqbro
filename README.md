@@ -1,14 +1,13 @@
 ✔ Beginner-friendly  
 ✔ Popular tool  
-🔗 Repo → https://github.com/jubairbro/AUTO-SCRIPT  
-
+🔗 Repo → 
 ---
 
 ### ⚙️ **Premium Script**
 All-in-one premium VPS setup with optimization.  
 ✔ Multi-protocol support  
 ✔ Fast & powerful  
-🔗 Repo → https://github.com/jubairbro/Premium  
+🔗 Repo →   
 
 ---
 
@@ -17,7 +16,7 @@ CLI-based powerful Telegram automation tools.
 ✔ Message utilities  
 ✔ Admin tools  
 ✔ Scripting fun  
-🔗 Repo → https://github.com/jubairbro/telegram  
+🔗 Repo → 
 
 ---
 
@@ -25,16 +24,12 @@ CLI-based powerful Telegram automation tools.
 
 <div align="center">
 
-<a href="https://t.me/jubairFF">
-<img src="https://img.shields.io/badge/Telegram-@JubairFF-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+<a href="https://t.me/TBSJSJ">
+<img src="https://img.shields.io/badge/Telegram-@musfiq_1-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
-<a href="https://facebook.com/jubair.py">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-</a>
-
-<a href="https://youtube.com/@JubairSensei">
-<img src="https://img.shields.io/badge/YouTube-JubairSensei-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+<a href="https://youtube.com/@musfiqsensi">
+<img src="https://img.shields.io/badge/YouTube-musfiqsensi-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
 </div>
