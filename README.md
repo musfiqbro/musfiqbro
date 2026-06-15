@@ -16,7 +16,7 @@
 
 # 🌟 About Me
 
-Hi! I'm **Musfiq**, a Madrasha student from Bangladesh who codes **just for fun**.  
+Hi! I'm **Musfiq**, a college student from Bangladesh who codes **just for fun**.  
 I explore Linux, make automation tools, play with scripts, and love making people smile. 😎
 
 ✨ Not a professional — just enjoying the journey  
