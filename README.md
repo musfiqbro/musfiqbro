@@ -24,8 +24,8 @@ CLI-based powerful Telegram automation tools.
 
 <div align="center">
 
-<a href="https://t.me/TBSJSJ">
-<img src="https://img.shields.io/badge/Telegram-@musfiq_1-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+<a href="https://t.me/musfiqmia">
+<img src="https://img.shields.io/badge/Telegram-@musfiqmia-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
 <a href="https://youtube.com/@musfiqsensi">
